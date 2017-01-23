@@ -1,0 +1,45 @@
+#container1 {
+    background:white;
+}
+.active1 {
+    background: ;
+}
+
+.col-md-2 {
+    padding : 0px;
+}
+
+.col-md-8 {
+    padding : 0px;
+}
+
+
+.box {
+background-color: white;
+border: 0px 
+}
+
+body {
+    background-color: white ;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: black;
+}
+
+li.active1>a, li.active1>a:visted, .active1>a::focus {
+    color: white;
+}
+
+.carousel{
+position: relative;   
+}
+
+.carousel-caption {
+    right: 20%;
+    left: 20%;
+    margin-top: 70px;
+    top: 70px; 
+}
+
+
