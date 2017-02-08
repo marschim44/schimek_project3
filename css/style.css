@@ -63,12 +63,24 @@ div.desc {
     text-align: center;
 }
 
-h1 {
+
+
+h4,h3, h1 {
     font-family: Brush Script MT;
 }
 
 #footer {
     text-align: center;
 }
+
+#container1 {
+    background: #1282A2
+}
+
+.active1 {
+    background: white
+}
+
+
 
 
